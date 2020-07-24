@@ -1,0 +1,9 @@
+.table{
+    margin-top: 25px;
+    border: 2px solid royalblue;   
+}
+td,th{
+    text-align: center;
+    border: 2px solid #B141E1;
+    vertical-align: middle;
+}

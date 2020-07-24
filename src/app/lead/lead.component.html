@@ -1,0 +1,14 @@
+<br>
+<table class="table" align="center" style="width:70%">
+    <tr><td colspan="3"><b>Campus Minds</b></td> </tr> 
+    <tr>
+        <th>MID</th>
+        <th>Name</th> 
+        <th>Track</th>
+      </tr>
+      <tr *ngFor="let campusmind of campusminds">
+        <td>{{campusmind.mid}}</td>
+        <td>{{campusmind.name}}</td> 
+        <td>{{campusmind.track}}</td>
+      </tr>
+    </table>

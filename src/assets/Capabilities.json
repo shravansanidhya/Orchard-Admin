@@ -1,0 +1,38 @@
+[
+    {
+        "No" : 1,
+        "KO": "Analyze complex business scenarios and create a data model"
+    },
+    {
+        "No": 2,
+        "KO": "Handle exceptions to maintain the normal flow of the application."        
+    },
+    {
+        "No": 3,
+        "KO": "Use appropriate classes from core java collection package to handle group of business objects"        
+    },
+    {
+        "No": 4,
+        "KO": "Use Java 8 features to create business logic of an application"        
+    },
+    {
+        "No": 5,
+        "KO": "Use Java to implement business layer of your application"        
+    },
+    {
+        "No": 6,
+        "KO":"Develop responsive pages using Material Design, Bootstrap & Media Query"
+    },
+    {
+        "No": 7,
+        "KO":"Develop Web app using basic Angular feature"
+    },
+    {
+        "No": 8,
+        "KO":"Implement Web UI that meets the functional specifications"
+    },
+    {
+        "No": 9,
+        "KO":"Use Spring MVC framework to implement presentation layer of an application"
+    }
+]
